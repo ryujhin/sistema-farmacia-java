@@ -41,7 +41,10 @@ sistema_farmacia_java/
 
 - Java 17+.
 - Visual Studio Code.
+- DeepSeek.
+- ChatGPT.
 - Paradigma de Programação Orientada a Objetos. (POO)
+
   
 ---
 
