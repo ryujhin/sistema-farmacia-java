@@ -60,7 +60,9 @@ sistema_farmacia_java/
 ---
 
 👨‍💻 Autor
+
 Desenvolvido para atividade prática de Programação Orientada a Objetos — 2025.
+
 Aluno: Ryujin
 
 
