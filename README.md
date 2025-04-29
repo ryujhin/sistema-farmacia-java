@@ -51,8 +51,7 @@ sistema_farmacia_java/
 - Registro de clientes com CPF.
 - Processamento de vendas.
 - Aplicação de descontos:
- > 5% para clientes registrados
- > Desconto configurável para gerentes
+ > 5% para clientes registrados // Desconto configurável para gerentes
 - Atualização automática do estoque após venda.
   
 ---
